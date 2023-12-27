@@ -10,7 +10,7 @@ class Config(object):
     PHOTO_URL = ["https://graph.org/file/03a06170898b11ed185ef.jpg"]
     SUPPORT_CHAT = "FallenXDeveloper"
     UPDATE_CHAT = "FallenXDeveloper"
-    BOT_USERNAME = "@NezukaX_ProBot"
+    BOT_USERNAME = "NezukaX_ProBot"
     CHARA_CHANNEL_ID = "-1002103727164"
     api_id = 21846639
     api_hash = "2cebc99bd8378b5237b31ea8e7496d79"
