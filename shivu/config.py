@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
-    sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002133191051
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    OWNER_ID = "1813373023"
+    sudo_users = "1813373023"
+    GROUP_ID = -1002103727164
+    TOKEN = "6123273453:AAHrLu47bfHTptowxQUtZ3S-DlLurAh3Nc8"
+    mongo_url = "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
+    PHOTO_URL = ["https://graph.org/file/03a06170898b11ed185ef.jpg"]
+    SUPPORT_CHAT = "FallenXDeveloper"
+    UPDATE_CHAT = "FallenXDeveloper"
+    BOT_USERNAME = "@NezukaX_ProBot"
+    CHARA_CHANNEL_ID = "-1002103727164"
+    api_id = 21846639
+    api_hash = "2cebc99bd8378b5237b31ea8e7496d79"
 
     
 class Production(Config):
